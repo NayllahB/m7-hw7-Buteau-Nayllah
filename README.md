@@ -1,1 +1,3 @@
-# m7-hw7-Buteau-Nayllah
+# Assignment 7
+
+There were no challenges while completing this assignment.
